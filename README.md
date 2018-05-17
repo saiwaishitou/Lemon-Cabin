@@ -188,9 +188,9 @@ url: /store/repair
 method: post
 header: {content-type: application/json}
 data: {
-    picUri: ['http://lc-xy0sgv99.cn-n1.lcfile.com/5a5bdb245e8a7b4d886c.jpg',                  
+    picUris: ['http://lc-xy0sgv99.cn-n1.lcfile.com/5a5bdb245e8a7b4d886c.jpg',                  
     		'http://lc-xy0sgv99.cn-n1.lcfile.com/5a5bdb245e8a7b4d886c.jpg'],
-    SN: 123456,
+    num: 123456,
     desc: '抓紧来修吧！',
     spec: ['软件打不开', '不出球']
 }
